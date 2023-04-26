@@ -9,7 +9,7 @@ For this study, we conducted sentiment analysis on Amazon food review, which is 
 
 ### Code
 
-The code is provided in the notebook file.
+The code is provided in the `Amazon_Food_Review_NLP_with_Sentiment_Analysis.ipynb` notebook file.
 
 ### To Run the Program
 Connect to the Google shared drive to obtain the dataset [CIS 519 Project](https://drive.google.com/file/d/1oIclraonEC5SH5NbUXlDyTBLOsz2v5Fh/view?usp=share_link) 
