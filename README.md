@@ -7,7 +7,7 @@ For this study, we conducted sentiment analysis on Amazon food review, which is 
 
 ### Code
 
-The code is provided in the `Amazon_Food_Review_NLP_with_Sentiment_Analysis.ipynb` notebook file and the link to the Colab notebook is [CIS 5190 Final_Project_Amazon_Food_Review_NLP_with_Sentiment_Analysis](https://colab.research.google.com/drive/1mnLsd75rRE96ucLHaNfUUfL0a_693hhZ?usp=share_link)
+The code is provided in the `Amazon_Food_Review_NLP_with_Sentiment_Analysis.ipynb` notebook file. However, the code is not displayed properly on github due to the version of Jupyter notebook that we used is the lastest version. Therefore, we also provided the link to the Colab notebook, which is [CIS 5190 Final_Project_Amazon_Food_Review_NLP_with_Sentiment_Analysis](https://colab.research.google.com/drive/1mnLsd75rRE96ucLHaNfUUfL0a_693hhZ?usp=share_link).
 
 ### To Run the Program
 Connect to the Google shared drive to obtain the dataset [CIS 519 Project](https://drive.google.com/file/d/1oIclraonEC5SH5NbUXlDyTBLOsz2v5Fh/view?usp=share_link)
