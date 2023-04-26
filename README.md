@@ -12,7 +12,7 @@ For this study, we conducted sentiment analysis on Amazon food review, which is 
 The code is provided in the `Amazon_Food_Review_NLP_with_Sentiment_Analysis.ipynb` notebook file.
 
 ### To Run the Program
-Connect to the Google shared drive to obtain the dataset [CIS 519 Project](https://drive.google.com/file/d/1oIclraonEC5SH5NbUXlDyTBLOsz2v5Fh/view?usp=sharing)
+Connect to the Google shared drive to obtain the dataset [CIS 519 Project](https://drive.google.com/file/d/1oIclraonEC5SH5NbUXlDyTBLOsz2v5Fh/view?usp=share_link)
 Or, you can directly download the dataset [Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews) from Kaggle and upload to Colab.
 
 ### Data
