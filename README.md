@@ -11,7 +11,7 @@ The code is provided in the `Amazon_Food_Review_NLP_with_Sentiment_Analysis.ipyn
 
 ### To Run the Program
 Connect to the Google shared drive to obtain the dataset [CIS 519 Project](https://drive.google.com/file/d/1oIclraonEC5SH5NbUXlDyTBLOsz2v5Fh/view?usp=share_link)
-Or, you can directly download the dataset [Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews) from Kaggle and upload to Colab.
+or you can directly download the dataset [Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews) from Kaggle and upload to Colab.
 
 ### Data
 
