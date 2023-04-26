@@ -13,6 +13,23 @@ The code is provided in the `Amazon_Food_Review_NLP_with_Sentiment_Analysis.ipyn
 Connect to the Google shared drive to obtain the dataset [CIS 519 Project](https://drive.google.com/file/d/1oIclraonEC5SH5NbUXlDyTBLOsz2v5Fh/view?usp=share_link)
 or you can directly download the dataset [Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews) from Kaggle and upload to Colab.
 
+### Install
+
+The following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [tensorflow](https://www.tensorflow.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [string](https://docs.python.org/3.5/library/string.html)
+- [collections](https://docs.python.org/3.3/library/collections.html)
+- [wordcloud](https://github.com/amueller/word_cloud)
+- [nltk](https://www.nltk.org/)
+- [keras](https://keras.io/)
+
+
 ### Data
 
 The dataset contains 568,454 food reviews Amazon users left from October 1999 to October 2012.).
